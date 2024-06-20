@@ -1,4 +1,4 @@
-## Welcome to The Rebuild! 👋
+## Welcome to the The Rebuild! 👋
 
 ### We are a small team of four people founded on 11 February 2024.
 
