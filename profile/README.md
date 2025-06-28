@@ -6,5 +6,6 @@ Our main task is optimising the Windows operating system, despite Microsoft's at
 
 Our current projects are:
 
+- [rebuildTUI](https://github.com/TheRebuild/rebuildTUI)
 - [RebuildOS Playbook](https://github.com/TheRebuild/playbook)
 - [Rebuild-old](https://github.com/TheRebuild/rebuild-old) (Includes Rebuild Programs Installer, RebuildTool and SetupComplete script)
