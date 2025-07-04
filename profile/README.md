@@ -9,7 +9,7 @@ Marks:
   
 ✅ - Active development
 
-⚠️ - QoL / Bugfixes releases only
+⚠️ - QoL / Bugfixe releases only
 
 ❌ - Deprecated or abandoned project
 ```
